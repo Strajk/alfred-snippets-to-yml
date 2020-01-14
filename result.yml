@@ -1,0 +1,17 @@
+"Personal{}{}":
+  "personal/email{;@;}": strajk@me.com
+  "personal/github{;gh;}": https://github.com/strajk
+  "personal/twitter{;tw;}": https://twitter.com/Straaajk
+"Stars{;}{}":
+  "1{s1}": ✭✩✩✩✩
+  "2{s2}": ✭✭✩✩✩
+  "3{s3}": ✭✭✭✩✩
+  "4{s4}": ✭✭✭✭✩
+  "5{s5}": ✭✭✭✭✭
+"Unsorted{}{}":
+  "date/now{;now;}": "{date:yyyy-MM-dd HH:mm}"
+  "date/tod{;tod;}": |
+    {date:yyyy-MM-dd}
+  "date/tod + day{;todd;}": "{date:yyyy-MM-dd EEEEEE}"
+  "emoji/shrug{;shrug;}": ¯\_(ツ)_/¯
+  "emoji/table{;table;}": ❨╯°□°❩╯︵┻━┻
